@@ -1,6 +1,6 @@
 package ru.academit.peretyagin.Contact;
 
-public class Contact {
+public class Main {
     public static void main(String[] args) {
 
         Person person = new Person("Ivanov", "Ivan", "+79123456789");
