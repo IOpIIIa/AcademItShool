@@ -1,4 +1,4 @@
-package ru.academit.peretyagin.Contact;
+package Contact;
 
 public class Person {
     private String lastName;
